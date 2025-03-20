@@ -1,7 +1,7 @@
 # TODO APP
 
 ## Objective
-practice on localStorage in javascript
+Practice on localStorage in javascript
 enter and save a item in local storage
 and you can also delete it
 
@@ -10,7 +10,7 @@ and you can also delete it
 * you can enter a todo
 * you can delete a todo
 
-## future Features
+## Future Features
 * Edit this todo
 * change UI
 * Add profile for each user
