@@ -1,6 +1,0 @@
-Youtube link: https://www.youtube.com/watch?v=THEKW1gITJI
-
-Build & Deploy a TODO APP with JavaScript
-
-In this JavaScript beginner project, we will build and deploy a todo application using HTML, CSS, and JavaScript (JS), and then upload it using the web hosting service Hostinger.
-You will learn important concepts such as CSS variables (custom properties), CSS Flexbox layouts, responsive web design, as we make the website/web app responsive for desktop, tablet, and smartphone (mobile version). In this practical project, you will learn important JavaScript concepts such as event listeners, DOM manipulation, localStorage, create, delete, and save elements. In HTML and CSS, we use modern icons with SVG elements from Google Fonts Icons/Material Icons, create our own custom checkbox (styling input checkbox), and design the responsive todo app with media queries and Flexbox.
